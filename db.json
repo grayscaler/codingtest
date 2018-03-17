@@ -1,88 +1,34 @@
 {
-    "comments": [
-        {
-            "body": "some comment",
-            "id": 1,
-            "postId": 1
-        },
-        {
-            "body": "some comment",
-            "id": 2,
-            "postId": 1
-        }
-    ],
-    "contents": {
+    "news": {
         "data": {
             "payload": [
                 {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
+                    "description": "Kayaking the Shuangxi River on the Northeast Coast\nIf relaxed paddling in a kayak on a calm river is your cup of tea, head to the beach-resort village of Fulong on the Northeast Coast to launch yourself on a short trip up and down the enchanting Shuangxi River!",
+                    "imageUrl": "https://eng.taiwan.net.tw/userfiles/image/2018news/Kayaking%20on%20Shuangxi%20River%20near%20Fulong.jpg",
+                    "title": "[Adventures] Paddling Around"
                 },
                 {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
+                    "description": "Get Your Smartphone Ready when Visiting These Locations!\nText and Photos: Vision\nWith about 800 million monthly users in 2017, the mobile photo-sharing network Instagram is one of the most popular social networks worldwide, and one of the most preferred platforms for showing images to friends, family, and followers. When traveling in foreign lands, Instagram users are naturally eager to discover the most photogenic locations and best photo ops. The England-based travel blog website theculturetrip.com recently posted a list with the 10 Most Instagrammable Spots in Taiwan. Let’s have a look and find out why these spots were picked (listed below according to geographical location, moving counter-clockwise around the island).",
+                    "imageUrl": "https://eng.taiwan.net.tw/userfiles/image/2018news/Taipei-101.jpg",
+                    "title": "[Must See & Do] Most Popular Instagram Spots"
                 },
                 {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
+                    "description": "Taiwan Lantern Festival & Places to Visit in Chiayi\nThe Taiwan Lantern Festival, one of Taiwan’s major annual celebrations, is held in a different location each year. The 2018 edition is being staged March 2 to 11 in the southwest’s Chiayi County, a region amongst the earliest settled by Han Chinese – in the 1600s – and today a region proud of its old-time character and rhythms where high-tech dreams of the future are eagerly cultivated.",
+                    "imageUrl": "https://eng.taiwan.net.tw/userfiles/image/2018news/Southern%20Branch%20of%20the%20NPM.jpg",
+                    "title": "[Hidden Treasures] The Easy-Paced Southwest Region"
                 },
                 {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
+                    "description": "Digging Up Nuggets of History in the Mountains by the Northeast Coast\nSomewhat hidden away from the popular tourist draw that is the town of Jiufen, but easy to reach by public bus, Jinguashi is much quieter and laid-back than its more prominent neighbor. Its main attraction is the very informative and educational Gold Museum, which introduces you to the times when gold-diggers went deep into the local mountainsides in search of this and other precious metals.",
+                    "imageUrl": "https://eng.taiwan.net.tw/userfiles/image/2018news/The%20Gold%20Museum%20in%20Jinguashi.jpg",
+                    "title": "[Family Fun] The Gold Museum"
                 },
                 {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
-                },
-                {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
-                },
-                {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
-                },
-                {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
-                },
-                {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
-                },
-                {
-                    "description": "『瓦香煨湯料理』是今天美食團隊要為大家分享的新竹美食，『瓦香煨湯料理』是一間以煨湯料理為主題的懷舊餐廳，店裡主打各式煨湯料理、也有私房菜、飯麵粥、手工小菜、飲品...等可以選擇，選擇性還算豐富。之前在看非凡大探索、一步一腳印發現新台灣節目報導，就有介紹這間位於竹北勝利二路的美食餐廳，老闆曾經是獲獎無數的饌巴黎餐飲集團主廚，店裡的每一甕湯，都得用炭火餘溫慢慢煨足12個小時，相當耗時費工，吃過那麼多家美食店家，就是沒有吃過這種特色的煨湯料理，所以就安排時間過來這邊嘗鮮一下。\n",
-                    "imageUrl": "https://pic.pimg.tw/sinya690627/1448181458-4046793137_l.jpg?v=1448181518",
-                    "title": "美食"
+                    "description": "Riding Back in Time by Train\nNeiwan is one of four popular branch-railway lines in Taiwan, the others being the Pingxi, Jiji, and Alishan lines. A slow train on this route takes you from the modern yet traditional city of Hsinchu deep into the hilly countryside to the tourist-popular village of Neiwan, on the way passing intriguing cultural and historical sites.",
+                    "imageUrl": "https://eng.taiwan.net.tw/userfiles/image/2017%20News/Neiwan%20Branch%20Line%20train%20at%20Neiwan%20Railway%20Station.jpg",
+                    "title": "[Rail Travel] The Neiwan Branch Line"
                 }
             ]
         },
-        "type": "food"
+        "type": "news"
     },
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
 }
