@@ -1,4 +1,68 @@
 {
+    "events": {
+        "data": {
+            "payload": [
+                {
+                    "description": "A place of history and poetry, Twin Oaks Estate plays a crucial role in US-Taiwan diplomatic relations. The 130-year-old architectural space speaks of elegance and tranquility and has a unique, irreplaceable historical and cultural significance as it has witnessed important events in the diplomatic history and cultural exchanges between the two countries. This explains the rich and priceless collection of paintings and other antiques, which relates to the sense of history in the space.",
+                    "imageUrl": "http://english.ntmofa.gov.tw/upload/relpic/e/4974/636525582062013575.jpg",
+                    "title": "Meet Taiwan Contemporary Art at Twin Oaks"
+                },
+                {
+                    "description": "What better way to launch your exploration of Taiwan – or deepen it – than a day spent in old Tainan City’s Anping District– named one of Taiwan’s “Top 10 Tourist Towns” in 2012 – where the island’s modern history was given birth?",
+                    "imageUrl": "https://eng.taiwan.net.tw/userfiles/image/2018news/Anping%20Treen%20House.jpg",
+                    "title": "[Town Wanderings] Anping: Taiwan’s Modern-History Fountainhead"
+                },
+                {
+                    "description": "Our lives revolve around the cycles of time in nature. Day after day, year after year, everything in life, including work and study, is guided by this idea. And festivals are the recurring events that break up the passage of time, adding a refreshing and joyful touch to the regularity of daily life and filling it with beauty and richness. Festivals developed from the interaction of various complex cultural factors, filtering and crystallizing the uniqueness of a particular culture. The year 2018 corresponds to “wuxu” in the traditional sixty-year cycle of the Chinese calendar. It is also the Year of the Dog according to the Chinese zodiac, a cycle of twelve years represented by twelve animals.",
+                    "imageUrl": "http://south.npm.gov.tw/imgs/crop/250/250/20180128/b5225288-9d4d-4867-bfcb-c80d7fd5aeef.png",
+                    "title": "Celebrating the Year of the Dog: A Special Exhibition of Festival Themed Collections"
+                },
+                {
+                    "description": "The“Biennial Butterfly Beauty Festival” is a magnificent yearly event that goes from December to March of the following year taking place in the Maolin National Scenic Area. During this period millions of migrating Euploea butterflies (purple in color) cross the ocean and arrive here to winter over.",
+                    "imageUrl": "https://eng.taiwan.net.tw/userfiles/image/2017photo/%E9%9B%99%E5%B9%B4%E8%B3%9E%E8%9D%B602.jpg",
+                    "title": "Biennial Butterfly Beauty Festival"
+                },
+                {
+                    "description": "The gradual arrival of winter formally announces that Taiwan’s peak hot spring season has begun! Taiwan abounds in the gifts of nature—cold springs, hot springs, mud springs, submarine springs—it is a world-famous scenic spot for springs of every variety.",
+                    "imageUrl": "http://eventaiwan.tw/d_upload_tour100/activity/image/A0/B0/C0/D0/E7/F222/ffb14989-5696-4c1d-acf3-1c63849142a8.jpg",
+                    "title": "Taiwan Hot Spring & Fine-Cuisine Carnival"
+                }
+            ]
+        },
+        "type": "events"
+    },
+    "food": {
+        "data": {
+            "payload": [
+                {
+                    "description": "Meimen restaurant prepares its food according to the Chinese philosophy of Five Colors, Five Agents, and Five Tastes, corresponding with liver, heart, spleen and kidney. It uses creative vegetarian food to promote the special diet concepts: eating clean and fully cooked food with tranquil and deferential heart. Meimen raises people’s health notion. The dishes represent a perfect combination of Chinese Qigong and philosophy of life. Among them, \"Won- Ton\" and famous \"Lo-Sung Mixed Veggie Soup\" are the classic delicacies.",
+                    "imageUrl": "https://www.travel.taipei/image/8265/1024x768",
+                    "title": "Meimen Restaurant"
+                },
+                {
+                    "description": "\"New-Puen Chinese Restaurant\" combines Cantonese snakes, HK barbecue, and Japanese desserts all together such as “Zhen Jiang Fried/Steamed Pig Knuckles”, the speciality, \"Cabbage with Meatballs\", \"Spicy Boiled Beef\", and \"Hangzhou Cod-and-Shrimp Gluten\". With more than 20-year cooking experience, New- Puen keeps providing various delicate and seasonal cuisines for their customers. Either rich texture in winter or refreshing tastes in summer, New-Puen hopes their customers can enjoy the unique flavors of delicacies they serve.",
+                    "imageUrl": "https://www.travel.taipei/image/8255/1024x768",
+                    "title": "New-Puen Chinese Restaurant"
+                },
+                {
+                    "description": "From the south coast of China, Chaochou cuisine style food uses a lot of fresh seafood and special sauces only for certain dishes, and among which, the Marina Goose Slices dish in Chao Ping Ji Restaurant at San Want Hotel Taipei is one of the best. Executive Chef Ho cooks the goose with the aged infusion and paired with the homemade garlic vinegar sauce to serve. Chao Ping Ji also serves Dim Sum style food and special desert menu that will satisfy all gourmands.",
+                    "imageUrl": "https://www.travel.taipei/image/8318/1024x768",
+                    "title": "Chao Ping Ji, San Want Hotel Taipei"
+                },
+                {
+                    "description": "The classic Shanghai cuisines are strongly promoted by Shanghai Court of Hyatt Hotel Taipei; and the chef’s best recommendations will be the \"Pot-sticker-like Bean Curd Sheet with Fried Duck and Wild Mushrooms” which uses fried duck and wild mushrooms as fillings to be wrapped by bean curd sheets and tastes both crispy and tender. The other creative dish \"Cabbage and Roasted Wheat Glutens Stuffed with Chopped Streaky Pork\" is also popular and admirable in Shanghai Court that even if the gourmand will praise it pretty highly.",
+                    "imageUrl": "https://www.travel.taipei/image/7899/1024x768",
+                    "title": "Shanghai Court, Hyatt Hotel Taipei"
+                },
+                {
+                    "description": "The soup of the famous beef noodle is made by beef cooked for a long time, and it also contains the gravy beef shank and hand made noodles, which makes it very chewy and delicious.",
+                    "imageUrl": "http://cdn.tour-ntpc.com/site/a3be84a9-7283-40a3-b4c7-758bf39c7828/Content/Upload/Place/130de760db900000a2a4.jpg",
+                    "title": "Master Liang's beef noodle and dumpling"
+                }
+            ]
+        },
+        "type": "food"
+    },
     "news": {
         "data": {
             "payload": [
